@@ -4,7 +4,7 @@
 - ➡️ My next project will likely be a desktop pet
 - 🐧 Just moved to Linux
 
-  █ █   █ █  
+  █ █     █ █  
 █ ▓ █ ▓ █ ▓ █
 ▓ ▓ ▓ ▓ ▓ ▓ ▓
   ▓ ▒ ▓ ▒ ▓  
